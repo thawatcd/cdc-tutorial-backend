@@ -240,3 +240,4 @@ _Pvt_Extensions
 
 appsettings.json
 appsettings.Development.json
+out/
