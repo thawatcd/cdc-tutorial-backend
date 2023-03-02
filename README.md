@@ -248,5 +248,5 @@ https://learn.microsoft.com/en-us/azure/azure-monitor/app/ilogger#aspnet-core-ap
 Add package ApplicationInsights
 
 ```ps
-dotnet add package Microsoft.ApplicationInsights.AspNetCore --version 2.21.0
+dotnet add package Microsoft.ApplicationInsights.AspNetCore --version 2.21.000000000
 ```
