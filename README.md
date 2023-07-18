@@ -185,7 +185,7 @@ https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-run#examples
     }
     ```
 
-## Build
+## Build ##
 
 ```ps
 dotnet build
